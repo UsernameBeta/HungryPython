@@ -1,3 +1,0 @@
-# HungryPython
-ulala
-print('letters')
